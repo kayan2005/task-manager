@@ -1,2 +1,1 @@
  - Learn git basics 
- - Set up git repository 
