@@ -1,3 +1,2 @@
- - Learn git basics 
- - Set up git repository 
- - Practice Git branching 
+- Learn git basics
+- Practice Git branching
